@@ -2,6 +2,7 @@
 #define BIOSKOP_H_INCLUDED
 
 #include <iostream>
+#include <stdio.h>
 
 using namespace std;
 #define first(L) ((L).first)
